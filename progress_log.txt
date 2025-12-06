@@ -1,0 +1,5 @@
+I did not find any solution for controlling camera, because there is no material for scala.
+I have no ideas for minimap realization.
+To add multiplayer I need to rewrite half of code.
+I want to return Snake 3D on moderate level because there is too much to do for level difficulty and I cannot find any useful materials for scala. I have two more projects to do.
+For some reason food spawns on walls or Snake even if there method that check those collisions.
