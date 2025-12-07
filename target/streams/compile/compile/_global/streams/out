@@ -1,2 +1,21 @@
-[debug] Acquiring lock on file C:\Users\Smith\IdeaProjects\Snake 3D by Anton\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock ...
-[debug] Releasing lock on file C:\Users\Smith\IdeaProjects\Snake 3D by Anton\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock.
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- [E029] Pattern Match Exhaustivity Warning: C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\src\main\scala\Snake.scala:28:4 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m28 |[0m    direction [33mmatch[0m {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m    ^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m    [33mmatch[0m may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m    It would fail on pattern case: NEXT_IN_LINE[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- [E029] Pattern Match Exhaustivity Warning: C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\src\main\scala\Snake.scala:139:6 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m139 |[0m      direction [33mmatch[0m {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m      ^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m      [33mmatch[0m may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m      It would fail on pattern case: NEXT_IN_LINE[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- [E121] Pattern Match Warning: C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\src\main\scala\Snake3dApp.scala:111:11 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m111 |[0m      [33mcase[0m _ => [34m// No close request handler found[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m           ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0mUnreachable case except for [31mnull[0m (if this is intentional, consider writing [33mcase[0m [31mnull[0m => instead).[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m

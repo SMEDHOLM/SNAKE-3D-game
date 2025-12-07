@@ -1,13 +1,49 @@
-[debug] Packaging C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\snake-3d-by-anton_3-0.1.0-SNAPSHOT.jar ...
-[debug] Input file mappings:
-[debug] 	Main$$anon$1.class
-[debug] 	  C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\classes\Main$$anon$1.class
-[debug] 	Main$$anon$2.class
-[debug] 	  C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\classes\Main$$anon$2.class
-[debug] 	Main$.class
-[debug] 	  C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\classes\Main$.class
-[debug] 	Main.class
-[debug] 	  C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\classes\Main.class
-[debug] 	Main.tasty
-[debug] 	  C:\Users\Smith\IdeaProjects\Snake 3D by Anton\target\scala-3.3.1\classes\Main.tasty
-[debug] Done packaging.
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\snake-3d-by-anton_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	level.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\level.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Block.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Block.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Block.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Block.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Food.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Food.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Food.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Food.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Level.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Level.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Level.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Level.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\MainMenu.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\MainMenu.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake3dApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake3dApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake3dApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake3dApp$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake3dApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake3dApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake3dApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake3dApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Snake3dApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Snake3dApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Wall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Wall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	snake\Wall.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\smedh\HSL_BUS_STOP_DISPLAY\SNAKE-3D-game\target\scala-3.3.1\classes\snake\Wall.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
